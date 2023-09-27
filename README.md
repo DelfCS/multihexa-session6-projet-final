@@ -37,9 +37,9 @@ Finalement, si vous êtes vraiment curieux, j'inclue ci-dessou un lien vers mon 
 
 <a href="https://drive.google.com/drive/folders/1lCH-bVsEPoWix0t3zDL6JuZslioF00EW">Vidéo présentation finale</a>
 
-0.00 - 19.00 : Présentation du projet
-19.00 - 37.00 : Présentation des applications et de leur fonctionnement
-37.00 - 52.00 : Commentaires et questions des professeurs, de notre client ainsi que des autres élèves
+0.00 - 19.00 : Présentation du projet <br>
+19.00 - 37.00 : Présentation des applications et de leur fonctionnement <br>
+37.00 - 52.00 : Commentaires et questions des professeurs, de notre client ainsi que des autres élèves <br>
 
 
 
