@@ -1,4 +1,4 @@
-<h3>A85/P95 - Analyse et production du projet final</h3> <br>
+<h3>A85/P95 - Analyse et production du projet final</h3>
 <h4>Keyless Access</h4>
 <hr>
 
