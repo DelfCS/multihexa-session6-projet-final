@@ -33,11 +33,13 @@ La partie analyse divisée en 3 parties (préliminaire, fonctionelle, organique)
 Pour ce qui est du code, puisqu'il appartient autant à mon coéquipier qu'à moi, je dois garder le repo privé. <br>
 Si vous êtes curieux je peux le présenter en live ;) <br> 
 
-Finalement, si vous êtes vraiment curieux, j'inclue ci-dessou un lien vers mon cloud ou j'ai uploadé notre présentation finale en format vidéo.
-<a href="https://drive.google.com/drive/folders/1lCH-bVsEPoWix0t3zDL6JuZslioF00EW">Présentation Finale Vidéo</a>
+Finalement, si vous êtes vraiment curieux, j'inclue ci-dessou un lien vers mon cloud ou j'ai uploadé notre présentation finale en format vidéo, qui explique en détails l'entièreté de notre projet. <br>
 
-C
+<a href="https://drive.google.com/drive/folders/1lCH-bVsEPoWix0t3zDL6JuZslioF00EW">Vidéo présentation finale</a>
 
-<hr>
+0.00 - 19.00 : Présentation du projet
+19.00 - 37.00 : Présentation des applications et de leur fonctionnement
+37.00 - 52.00 : Commentaires et questions des professeurs, de notre client ainsi que des autres élèves
+
 
 
