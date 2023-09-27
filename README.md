@@ -4,7 +4,7 @@
 
 Pour le projet final, je me suis associé avec un collègue de classe. <br>
 
-Ensemble, nous avons créé une application qui permet la gestion d'établissements, de leurs différents points d'accès ainsi que des permissions des usagers concernés. Et ce ... Entièrement à distance !<br>  
+Ensemble, nous avons créé une application qui permet la gestion d'établissements, de leurs différents points d'accès et des permissions associées. Et ce ... Entièrement à distance !<br>  
 
 Notre plus grand défi : La clé est ... le téléphone de l'usager (via signal NFC)<br>
 
@@ -31,7 +31,7 @@ Ou le site web gère toutes interactions avec la DB, l'api permet la communicati
 La partie analyse divisée en 3 parties (préliminaire, fonctionelle, organique) est présente au complet dans le dossier Analyses <br>
 
 Pour ce qui est du code, puisqu'il appartient autant à mon coéquipier qu'à moi, je dois garder le repo privé. <br>
-Si vous êtes curieux je peux le présenter en live ;) <br> 
+Si vous êtes curieux je peux le présenter en live <br> 
 
 Finalement, si vous êtes vraiment curieux, j'inclue ci-dessou un lien vers mon cloud ou j'ai uploadé notre présentation finale en format vidéo, qui explique en détails l'entièreté de notre projet. <br>
 
